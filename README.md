@@ -10,7 +10,7 @@
 
 <img size='100%' src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa34120df-4046-4a84-8133-6eb987bceac6%2FUntitled.png?table=block&id=4e3c96e5-f7a7-4e1a-9fa9-34d99494047b&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=2000&userId=39398d22-1414-41b7-a174-e9210a9ecec2&cache=v2" alt="Captura-de-tela-2022-03-16-083320" border="0">
 
-Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique em copiar.
+Carrinho de compras de uma loja de Tênis
 
 ## 🤝 Clonar o projeto
 
